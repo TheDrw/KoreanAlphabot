@@ -5,17 +5,21 @@ You can try it out here on my discord test server : [discord server](https://dis
 !help will give you a list of the commands. If it is the last week of the month, it is probably not there because the heroku free service I am using will run out of the given time by then. But it will be back up at the start of the month.
 
 I'd also like to note that I am still a beginner in learning the Koreanz, but I think I have certain fundamentals down.
-Here's how to program the Korean unicode if you're wondering : [programming in Korean](http://www.programminginkorean.com/programming/hangul-in-unicode/composing-syllables-in-unicode/).
+Here's how to program the Korean unicode if you're wondering : ~~[programming in Korean](http://www.programminginkorean.com/programming/hangul-in-unicode/composing-syllables-in-unicode/)~~ (link is gone and can't find a replacement translation at the moment).
 And if you want to know how to pronouce the alphabet, here's a youtube video from the person I learn most of my Korean from : 
 [Korean person](https://www.youtube.com/watch?v=WqGfsp2EY9U)
 
 Here's a small demo:
 
-English to Korean Quiz
+**English to Korean Quiz**
 
 ![](/gifs/en-to-ko.gif)
 
+<br>
 
-Korean to English Quiz
+**Korean to English Quiz** 
 
 ![](/gifs/ko-to-en.gif)
+
+<br>
+Thanks for checking it out and let me know if you have any questions!
