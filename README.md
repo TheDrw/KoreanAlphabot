@@ -8,3 +8,14 @@ I'd also like to note that I am still a beginner in learning the Koreanz, but I 
 Here's how to program the Korean unicode if you're wondering : [programming in Korean](http://www.programminginkorean.com/programming/hangul-in-unicode/composing-syllables-in-unicode/).
 And if you want to know how to pronouce the alphabet, here's a youtube video from the person I learn most of my Korean from : 
 [Korean person](https://www.youtube.com/watch?v=WqGfsp2EY9U)
+
+Here's a small demo:
+
+English to Korean Quiz
+
+![](/gifs/en-to-ko.gif)
+
+
+Korean to English Quiz
+
+![](/gifs/ko-to-en.gif)
